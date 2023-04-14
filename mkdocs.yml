@@ -76,6 +76,6 @@ extra:
 
 nav:
     - 主页: "index.md"
-    - 从GitHub开始:"get_started_with_github.md"
+    - 从GitHub开始: "get_started_with_github.md"
     - 目录测试:
         - "USTC Computer Networking:A Top-Down Approach": "ComputerNetwork\topdown_ustc.md"
