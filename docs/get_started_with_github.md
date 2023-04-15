@@ -18,6 +18,6 @@ GitHub是一个在线软件源代码托管服务平台，它使用Git作为版�
 
 ## 资料
 
-讲稿：[123]()
+讲稿：[GettingStartedWithGitHub.pdf](/files/GettingStartedWithGitHub.pdf)
 
-视频回放：[]()
+视频回放：[暂未上传](暂未上传)
